@@ -151,16 +151,15 @@ Across all 249,147 units sold, the baseline performance established the followin
 
 Filtering the dashboard dynamically across hardware brands highlights clear differences in channel strategy and regional adoption:
 
-| Performance Metric | Baseline (All Brands) | PlayStation 5 | Xbox Series X |
-|---|---:|---:|---:|
-| **Total Gross Revenue** | **$15.7M** | **$6.0M (38.2%)** | **$4.5M (28.7%)** |
-| **Total Physical Units Sold** | **249,147 Units** | **99,090 Units (39.8%)** | **65,164 Units (26.2%)** |
-| **Marketing Budget Allocated** | **$2.5M** | **$84,534** | **$65,227** |
-| **Distribution Channel Split** | **54% Online / 46% Retail** | **53% Online / 47% Retail** | **64% Online / 36% Retail** |
-| **Top Regional Market** | **Europe (60,552 Units)** | **Europe (27,910 Units)** | **North America (17,829 Units)** |
-| **Top Customer Segment** | **Adults (33%)** | **Adults (34%)** | **Adults (39%)** |
-| **Peak Demand Month** | **December (25,957 Units)** | **January (16,898 Units)** | **October (65,164 units)** |
-
+| Performance Metric | Baseline (All Brands) | PlayStation 5 | Xbox Series X | Nintendo Switch |
+|---|---:|---:|---:|---:|
+| **Total Gross Revenue** | **$15.7M** | **$6.0M (38.2%)** | **$4.5M (28.7%)** | **$5.2M (33.1%)** |
+| **Total Physical Units Sold** | **249,147 Units** | **99,090 Units (39.8%)** | **65,164 Units (26.2%)** | **84,893 Units (34.0%)** |
+| **Marketing Budget Allocated** | **$2.5M** | **$84,534** | **$65,227** | **$2.35M** |
+| **Distribution Channel Split** | **54% Online / 46% Retail** | **53% Online / 47% Retail** | **64% Online / 36% Retail** | **46% Online / 54% Retail** |
+| **Top Regional Market** | **Europe (60,552 Units)** | **Europe (27,910 Units)** | **North America (17,829 Units)** | **Europe (21,230 Units)** |
+| **Top Customer Segment** | **Adults (33%)** | **Adults (34%)** | **Adults (39%)** | **Casual Gamers / Teens (31%)** |
+| **Peak Demand Month** | **December (25,957 Units)** | **January (16,898 Units)** | **October (18,429 Units)** | **December (22,104 Units)** |
 ---
 
 ### C. Core Business Insights
