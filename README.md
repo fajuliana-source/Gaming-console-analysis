@@ -7,12 +7,11 @@
 
 ---
 
-## 📺 Featured Live Workshop Presentation
+## Featured Live Workshop Facilitation
 
-This analysis and dashboard architecture were presented live during an analytics workshop stream hosted by **Evergreen Digital Tech Solution**.
+Invited as a guest facilitator by **Evergreen Digital Tech Solution** to lead a live analytics session for aspiring data analysts. During the workshop, I walked participants through the end-to-end analytical workflow, data cleaning process, business findings, and Excel dashboard design for this Gaming Console project.
 
-* **Watch YouTube Presentation Recording:** [Live Gaming Console Sales Analysis Session](https://www.youtube.com/live/HJ7TxK_nj54?si=052sTQD9e1BkBpkT)
-
+* **Watch YouTube Workshop Recording:** [Live Gaming Console Sales Analysis & Dashboard Walkthrough](https://www.youtube.com/live/HJ7TxK_nj54?si=052sTQD9e1BkBpkT)
 ---
 
 ## 1. Project Overview
