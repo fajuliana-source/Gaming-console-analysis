@@ -16,7 +16,7 @@ Invited as a guest facilitator by **Evergreen Digital Tech Solution** to lead a 
 
 ## 1. Project Overview
 
-![Gaming Console Analysis Dashboard](./Gaming_Console_Dashboard.png)
+![Gaming Console Analysis Dashboard](./Gaming_Console_Dashboard.png) 
 
 This project evaluates global gaming console sales performance, marketing budget efficiency, customer segmentation, regional volume distribution, and channel dynamics across major hardware brands (*PlayStation 5, Xbox Series X, Nintendo Switch*) using Microsoft Excel.
 
